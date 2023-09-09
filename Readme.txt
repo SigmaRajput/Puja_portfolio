@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+This Portfolio is Designed for personel Use.
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Developed by Sigma Dveloper.
+
+Thannk You.
